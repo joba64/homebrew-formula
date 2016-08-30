@@ -8,7 +8,7 @@ class SwiftCompletion < Formula
   bottle :unneeded
 
   def install
-    bash_completion.install "contrib/completion/bash/docker"
+    bash_completion.install "swift" 
   end
 
   test do
