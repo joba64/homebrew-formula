@@ -2,7 +2,7 @@ class SwiftCompletion < Formula
   desc "Bash completion for Swift"
   homepage "https://github.com/joba64/swift_bash-completion"
   url "https://github.com/joba64/swift_bash-completion/archive/0.0.1.tar.gz"
-  sha256 "f8139acba98248eb1fdb0b6d94efee89b876f9a50d00e263dc144fd2b0c372d4"
+  sha256 "8d50cd8081430dc33fc4bbb1f713e5c76d27521cb2cfd435b6e70cf69506bab8"
   head "https://github.com/joba64/swift_bash-completion"
 
   bottle :unneeded
