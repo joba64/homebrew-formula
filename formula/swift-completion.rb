@@ -6,7 +6,7 @@ class SwiftCompletion < Formula
   head "https://github.com/joba64/swift_bash-completion"
 
   bottle :unneeded
-  depends_on :bash-completion
+  depends_on :"bash-completion"
 
   def install
     bash_completion.install "swift" 
